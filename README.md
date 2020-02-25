@@ -12,5 +12,7 @@ exemple de la maquette
         
         
 
-4- taper la commande : npm run serve 
+4- taper la commande : npm run serve
+
+
 5-localhost:8080
